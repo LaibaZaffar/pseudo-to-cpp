@@ -1,0 +1,6 @@
+streamlit
+torch
+transformers
+sentencepiece
+safetensors
+gdown
